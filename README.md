@@ -1,6 +1,7 @@
 # 📈 Tesla Stock Price Prediction
 
-![Tesla Logo](https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png {width="150" height="150"})
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png" width="150" height="150" />
+
 
 This project presents a machine learning-based approach for predicting Tesla stock price movement direction using historical OHLC data. It combines exploratory data analysis (EDA), feature engineering, and classification models to make informed predictions.
 
